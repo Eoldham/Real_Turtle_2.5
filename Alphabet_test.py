@@ -1,1 +1,0 @@
-from Alphabet.Letters_a_j import *
